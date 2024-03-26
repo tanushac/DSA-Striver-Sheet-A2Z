@@ -1,9 +1,5 @@
 # Striver DSA Sheet A2Z Solutions Repository
-Welcome! This repository is a collection of solutions to problems in Striver's A2Z DSA sheet in C++ language. This makes it easier to access all the solutions in a single place.
-
-**Introduction**
-
-Data Structures and Algorithms are fundamental to computer science and play a crucial role in writing efficient and scalable code. This repository aims to provide clear and concise solutions to common DSA problems, helping you enhance your problem-solving abilities and understand various algorithmic techniques.
+Hi! This repository is a collection of solutions to problems in Striver's A2Z DSA sheet in C++ language. This makes it easier to access all the solutions in a single place.
 
 **Folder Structure**
 
